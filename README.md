@@ -1,6 +1,6 @@
 # Projecto configuracion de Calestia-dots
 
-A brief description of what this project does and who it's for
+Resumen y muestra del Caelestia
 
 <h1 align=center>caelestia-shell</h1>
 
@@ -25,11 +25,11 @@ https://github.com/user-attachments/assets/0840f496-575c-4ca6-83a8-87bb01a85c5f
 ## Installation
 
 > [!NOTE]
-> This repo is for the desktop shell of the caelestia dots. If you want installation instructions
-> for the entire dots, head to [the main repo](https://github.com/caelestia-dots/caelestia) instead.
+> Este repositorio es para el shell de escritorio de Caelestia Dots. Si desea instrucciones de instalación pued entrar a este link [Repo-caelestia](https://github.com/caelestia-dots/caelestia)
+> Para todos los puntos, dirígete al [repositorio principal](https://github.com/caelestia-dots/caelestia).
 
 ### Arch linux
 
 > [!NOTE]
-> If you want to make your own changes/tweaks to the shell do NOT edit the files installed by the AUR
-> package. Instead, follow the instructions in the [manual installation section](#manual-installation).
+> Si desea realizar sus propios cambios o ajustes en el shell, NO edite los archivos instalados por AUR
+> paquete. En su lugar, siga las instrucciones de la [sección de instalación manual](manual-installation).
