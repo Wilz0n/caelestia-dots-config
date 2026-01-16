@@ -32,4 +32,4 @@ https://github.com/user-attachments/assets/0840f496-575c-4ca6-83a8-87bb01a85c5f
 
 > [!NOTE]
 > Si desea realizar sus propios cambios o ajustes en el shell, NO edite los archivos instalados por AUR
-> paquete. En su lugar, siga las instrucciones de la [sección de instalación manual]([manual-installation](https://github.com/caelestia-dots/shell/blob/main/README.md#manual-installation)).
+> paquete. En su lugar, siga las instrucciones de la [manual installation section]([manual-installation](https://github.com/caelestia-dots/shell/blob/main/README.md#manual-installation)).
